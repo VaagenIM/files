@@ -1,9 +1,0 @@
-[submodule "MP"]
-	path = MP
-	url = https://github.com/VaagenIM/files-MP
-[submodule "IKT"]
-	path = IKT
-	url = https://github.com/VaagenIM/files-IKT
-[submodule "ORG"]
-	path = ORG
-	url = https://github.com/VaagenIM/files-ORG
